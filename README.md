@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br>| FastAPI  💡 |Software Engineer 💻</h2>
+<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br> FastAPI  💡 |Software Engineer 💻</h2>
 
 ###
 
