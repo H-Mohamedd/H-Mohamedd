@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br>| FastAPI  💡 |Software Engineer 💻</h2>
+<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br> FastAPI  💡 |Software Engineer 💻</h2>
 
 ###
 
@@ -83,13 +83,11 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=H-Mohamedd.H-Mohamedd&"  />
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Mohamedd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H-Mohamedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Mohamedd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H-Mohamedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
