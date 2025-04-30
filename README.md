@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br> FastAPI  💡 |Software Engineer 💻</h2>
+<h2 align="center">Back-end developer 🛠️ | Laravel 🧱  <br>| FastAPI  💡 |Software Engineer 💻</h2>
 
 ###
 
@@ -45,31 +45,41 @@
 
 ###
 
-<h2 align="center">Frameworks</h2>
+<br clear="both">
+
+<h2 align="left">Frameworks</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
+
+<h2 align="left">Database</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=H-Mohamedd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Mohamedd/H-Mohamedd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H-Mohamedd/H-Mohamedd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/H-Mohamedd/H-Mohamedd/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+</div>
 
 ###
 
@@ -77,15 +87,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Mohamedd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Mohamedd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H-Mohamedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/H-Mohamedd/H-Mohamedd/output/snake.svg" alt="Snake animation" />
 
 ###
